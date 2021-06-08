@@ -1,7 +1,7 @@
 <?php
 defined('_JEXEC') or die;
 /* One day I'll git good
- */
+git git git atter */
 $app  = JFactory::getApplication();
 $user = JFactory::getUser();
 
